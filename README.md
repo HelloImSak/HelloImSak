@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HelloImSak
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Software Engineering 
-- 💞️ I’m looking to collaborate on Sbearbank
+- 💞️ I’m looking to internship on Sbearbank
 - 📫 How to reach me https://www.facebook.com/ZyyZenpai?mibextid=LQQJ4d
 
 <!---
